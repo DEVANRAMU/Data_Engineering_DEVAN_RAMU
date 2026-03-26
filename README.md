@@ -2,10 +2,8 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 
----
-
 My daily progress in this training is recorded here in this repository.
-
+---
 ## 🚀 Key Learning objective on 26 March
 * **Joins:** Implementation of INNER, LEFT, RIGHT, CROSS, and simulated FULL OUTER joins.
 * **Filtering:** Using WHERE clauses to isolate data by budget thresholds or specific locations.
