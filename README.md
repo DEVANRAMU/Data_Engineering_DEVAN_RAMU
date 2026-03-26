@@ -20,6 +20,7 @@ My daily progress in this training is recorded here in this repository.
 
 ## 📜 An analysis on the difference between SQL and NoSQL
 * Prepared a 4 pages document on the difference between SQL and NoSQL , with real life scenarios for better understanding.
+* (Please find this document in the folder named as : 26_Mar_26
 ---
 
 ### Developed with ❤️ for the Hexaware Data Engineering training.
