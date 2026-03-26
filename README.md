@@ -1,6 +1,7 @@
 # Data_Engineering
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 My daily progress in this training is recorded here in this repository.
 
@@ -17,6 +18,8 @@ My daily progress in this training is recorded here in this repository.
 
 * **Student Enrollment Query:** Aggregates student names and cities with their total fees paid, isolating those who have invested more than 5,000 in courses, ranked from highest to lowest fee.
 
+## 📜 An analysis on the difference between SQL and NoSQL
+* Prepared a 4 pages document on the difference between SQL and NoSQL , with real life scenarios for better understanding.
 ---
 
 ### Developed with ❤️ for the Hexaware Data Engineering training.
